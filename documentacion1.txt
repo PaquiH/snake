@@ -1,0 +1,1 @@
+Este es el documento que confirma la realizacion de la refactorizacion
